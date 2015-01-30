@@ -12,5 +12,15 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/xMartin/libphonenumber-umd"
-  }
+  },
+  "keywords": [
+    "e164",
+    "international",
+    "i18n",
+    "format",
+    "phone",
+    "browser",
+    "UMD",
+    "AMD"
+  ]
 }
