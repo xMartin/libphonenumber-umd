@@ -1,0 +1,16 @@
+{
+  "name": "libphonenumber-umd",
+  "version": "1.0.0",
+  "main": "libphonenumber.js",
+  "description": "Google's libphonenumber packaged as UMD exposing the `i18n` namespace",
+  "maintainers": [
+    {
+      "name": "xMartin",
+      "email": "xmartin@siarp.de"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xMartin/libphonenumber-umd"
+  }
+}
