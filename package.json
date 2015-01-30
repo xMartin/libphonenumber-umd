@@ -1,6 +1,6 @@
 {
   "name": "libphonenumber-umd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "libphonenumber.js",
   "description": "Google's libphonenumber packaged as UMD exposing the `i18n` namespace",
   "maintainers": [
